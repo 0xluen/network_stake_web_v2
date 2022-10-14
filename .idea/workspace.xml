@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca0661e6-3264-4eb9-bc57-9b9ce39870b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/network_stake_web_v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Features-Centered-Icons-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Hero-Clean-images.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Responsive-YouTube-Video-Section-Dark-Centered.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/mail.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome5-overrides.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/Casper.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/G5avjlR2_400x400.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/Adsız.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/casper-logo-primary.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/instacart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/kickstarter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/logo-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/lyft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/nym-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/pinterest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/shopify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brands/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/casperlabs-1(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/credentials.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/home_v2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo-icon (1) (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/mixnet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/nym-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/products/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/avatar2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/avatar4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team/avatar5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/token.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bold-and-bright.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bs-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailbox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mailpanel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/casper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/nym.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G7MEszMcFjeMux7pxRxUoKAwJy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/macbookpro/Documents/GitHub/network_stake_web_v2",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca0661e6-3264-4eb9-bc57-9b9ce39870b7" name="Changes" comment="" />
+      <created>1665735060645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665735060645</updated>
+      <workItem from="1665735061825" duration="253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
