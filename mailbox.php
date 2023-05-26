@@ -35,7 +35,7 @@
 
         .header {
             background-image: url(https://lh3.googleusercontent.com/DXJMxm3TMnNefgwt28w36_ONNnEDRsLIOC2iaZPNgH5KqIodQegKCYE-qc4bW5mIBBbQ8Lc_1w);
-            height: 300px;
+            height: 299px;
 
         }
         body {
